@@ -1,0 +1,15 @@
+/home/filip/Documents/KecalekServer/CommunicatonServer/bin/Debug/net8.0/CommunicatonServer
+/home/filip/Documents/KecalekServer/CommunicatonServer/bin/Debug/net8.0/CommunicatonServer.deps.json
+/home/filip/Documents/KecalekServer/CommunicatonServer/bin/Debug/net8.0/CommunicatonServer.runtimeconfig.json
+/home/filip/Documents/KecalekServer/CommunicatonServer/bin/Debug/net8.0/CommunicatonServer.dll
+/home/filip/Documents/KecalekServer/CommunicatonServer/bin/Debug/net8.0/CommunicatonServer.pdb
+/home/filip/Documents/KecalekServer/CommunicatonServer/obj/Debug/net8.0/CommunicatonServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/filip/Documents/KecalekServer/CommunicatonServer/obj/Debug/net8.0/CommunicatonServer.AssemblyInfoInputs.cache
+/home/filip/Documents/KecalekServer/CommunicatonServer/obj/Debug/net8.0/CommunicatonServer.AssemblyInfo.cs
+/home/filip/Documents/KecalekServer/CommunicatonServer/obj/Debug/net8.0/CommunicatonServer.csproj.CoreCompileInputs.cache
+/home/filip/Documents/KecalekServer/CommunicatonServer/obj/Debug/net8.0/CommunicatonServer.sourcelink.json
+/home/filip/Documents/KecalekServer/CommunicatonServer/obj/Debug/net8.0/CommunicatonServer.dll
+/home/filip/Documents/KecalekServer/CommunicatonServer/obj/Debug/net8.0/refint/CommunicatonServer.dll
+/home/filip/Documents/KecalekServer/CommunicatonServer/obj/Debug/net8.0/CommunicatonServer.pdb
+/home/filip/Documents/KecalekServer/CommunicatonServer/obj/Debug/net8.0/CommunicatonServer.genruntimeconfig.cache
+/home/filip/Documents/KecalekServer/CommunicatonServer/obj/Debug/net8.0/ref/CommunicatonServer.dll
